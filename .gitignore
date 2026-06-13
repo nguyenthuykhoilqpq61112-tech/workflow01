@@ -1,0 +1,40 @@
+# Model files (too large for Git, download separately)
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.gguf
+*.ggml
+*.pkl
+
+# Large video/audio files
+*.mp4
+*.m4v
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+
+# Plugin / dependency archives
+*.zip
+*.tar.gz
+*.tar
+*.7z
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
